@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2a3cb2-f7b8-474b-b0b1-da3b0b82d6ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-956948458">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="1057" />
+          <entry key="html" value="2" />
+          <entry key="php" value="361" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="PHP" value="361" />
+          <entry key="PLAIN_TEXT" value="1057" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="55" />
+          <entry key="php" value="1058" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="1058" />
+          <entry key="PLAIN_TEXT" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alya3523</find>
+      <find>nataliyabogdanova72</find>
+      <find>natalya.mashevska</find>
+      <find>olia.sk</find>
+      <find>chryst.mon</find>
+      <find>UKR,sergiymerza</find>
+      <find>ladylinx</find>
+      <find>mustafakatij</find>
+      <find>olga.bolshakova8</find>
+      <find>whvecova</find>
+      <find>juliazena</find>
+      <find>svitlana.petry</find>
+      <find>enigma197466</find>
+      <find>dinakuka</find>
+      <find>gmail.com,valid</find>
+      <find>serega_s1988</find>
+      <find>iurii84</find>
+      <find>aduchi</find>
+      <find>2018l1</find>
+      <find>katyarakina80</find>
+      <find>vitt</find>
+      <find>0969291306</find>
+      <find>valid</find>
+      <find>jerrygkim</find>
+      <find>vovakozlenko</find>
+      <find>ann.boziyeva</find>
+      <find>jarrett17</find>
+      <find>0979388237</find>
+      <find>olgaosaulenko</find>
+      <find>invalid</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate45.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate46.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate47.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate48.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate49.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate50.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate51.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate52.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate53.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate54.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate55.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate56.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate57.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate58.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate59.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate60.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate61.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate62.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate63.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate64.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate65.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate66.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate67.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate68.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate69.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate70.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate71.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate72.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate73.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate74.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate75.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate76.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate77.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate78.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate79.php" />
+        <option value="$PROJECT_DIR$/validate81.php" />
+        <option value="$PROJECT_DIR$/validate82.php" />
+        <option value="$PROJECT_DIR$/validate83.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate82.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate83.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(35-36)2.csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(52-53)2.csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate81.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/validate80.php" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(50-51)2.csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(50-51).csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(51-52).csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(51-52)2.csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/mails(52-53).csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/rmails(52-53).csv" />
+        <option value="&lt;d287721d-4910-4b2c-aa67-46636c6e5e15&gt;/var/www/html/rmails(50-51)2.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="399" />
+    <option name="width" value="1906" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="web" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="web" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2a3cb2-f7b8-474b-b0b1-da3b0b82d6ce" name="Default Changelist" comment="" />
+      <created>1538735051143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538735051143</updated>
+      <workItem from="1538735052427" duration="5137000" />
+      <workItem from="1539002460629" duration="1334000" />
+      <workItem from="1539003802290" duration="5297000" />
+      <workItem from="1539074615747" duration="9077000" />
+      <workItem from="1539160073379" duration="29793000" />
+      <workItem from="1539329727268" duration="3248000" />
+      <workItem from="1539424482925" duration="78314000" />
+      <workItem from="1540025032618" duration="36601000" />
+      <workItem from="1540638436069" duration="5278000" />
+      <workItem from="1543829759055" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="174737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27534685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Migrations" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32939914" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.32977587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26894343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Migrations" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32939914" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
+      <window_info active="true" anchor="right" id="Remote Host" order="4" visible="true" weight="0.32977587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mails(52-53)2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mails(52-53).csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="485" lean-forward="true" selection-start-line="485" selection-end-line="485" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(31-32)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(32-33)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(33-34)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(34-35)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(35-36)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(36-37)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(37-38)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(38-39)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(39-40)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(40-41)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(42-43)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(41-42)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(43-44)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(44-45)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(45-46)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(46-47)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(47-48)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(48-49)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(49-50)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(50-51)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(51-52)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmails(52-53)2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate59.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate60.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate61.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate62.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate63.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate64.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate65.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate66.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate67.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate68.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate70.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate71.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate69.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate72.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate73.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate74.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate75.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate76.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate77.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate78.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate79.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate80.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate81.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate82.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate83.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
