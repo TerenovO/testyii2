@@ -2,8 +2,12 @@
 
 /* @var $this yii\web\View */
 
+use yii\helpers\Html;
+use yii\widgets\Pjax;
+
 $this->title = 'My Yii Application';
 ?>
+<?php if(Yii::$app->user->isGuest) { ?>
 <div class="site-index">
 
     <div class="jumbotron">
@@ -51,3 +55,21 @@ $this->title = 'My Yii Application';
 
     </div>
 </div>
+<?php } else { ?>
+
+
+
+
+
+
+
+    <?php Pjax::begin(['enablePushState' => true]); ?>
+         <h1><?php echo Yii::$app->user->identity->counter;?></h1>
+        <?= Html::a('', ['/site/index', 'vote' => 'up'], ['class' => 'btn btn-lg btn-warning glyphicon glyphicon-arrow-up']) ?>
+        <?= Html::a('', ['/site/index', 'vote' => 'down'], ['class' => 'btn btn-lg btn-warning glyphicon glyphicon-arrow-down']) ?>
+    <?php Pjax::end(); ?>
+    <p></p>
+    <?= Html::a('Logout', ['site/logout'], ['class'=>'btn btn-primary'], ['data' => ['method' => 'post']]) ?>
+
+
+<?php }?>

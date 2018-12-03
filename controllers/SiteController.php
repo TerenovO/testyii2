@@ -9,6 +9,9 @@ use yii\web\Response;
 use yii\filters\VerbFilter;
 use app\models\LoginForm;
 use app\models\ContactForm;
+use app\models\User;
+
+use app\models\SignupForm;
 
 class SiteController extends Controller
 {
@@ -59,11 +62,28 @@ class SiteController extends Controller
      *
      * @return string
      */
-    public function actionIndex()
+    public function actionIndex($vote = null)
     {
+        $isGuest = Yii::$app->user->isGuest;
+        if(!$isGuest) {
+            $user_id = Yii::$app->user->id;
+            $user = User::find()->where(['id' => $user_id])->one();
+            if ($user) {
+                $votes = $user->counter;
+
+                if ($vote === 'up') {
+                    $user->counter++;
+                    $user->save();
+                } elseif ($vote === 'down') {
+                    $user->counter--;
+                    $user->save();
+                }
+            }
+        }
+
+
         return $this->render('index');
     }
-
     /**
      * Login action.
      *
@@ -125,4 +145,24 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
+
+
+
+    public function actionSignup()
+    {
+        $model = new SignupForm();
+
+        if ($model->load(Yii::$app->request->post())) {
+            if ($user = $model->signup()) {
+                if (Yii::$app->getUser()->login($user)) {
+                    return $this->goHome();
+                }
+            }
+        }
+
+        return $this->render('signup', [
+            'model' => $model,
+        ]);
+    }
+
 }
